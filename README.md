@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-- Well, i want to learn about CSS media query and start javascript. Thx. 
+- Well, i want to learn about CSS media query and start javascript.
 
 
 ## Author
